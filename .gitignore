@@ -29,3 +29,7 @@ htmlcov/
 .direnv
 
 .github/**
+
+# VSCode and secrets
+*.env_file
+venv/

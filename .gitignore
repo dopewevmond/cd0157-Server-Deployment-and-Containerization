@@ -31,5 +31,4 @@ htmlcov/
 .github/**
 
 # VSCode and secrets
-*.env_file
 venv/
